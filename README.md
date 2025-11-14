@@ -12,7 +12,7 @@ The report uses:
 - **Interactive filters** for better exploration and insights  
 
 ## 🖼️ Preview
-![Bars, Columns and Lines Dashboard](Bars_Columns_Lines_Dashboard.png)
+![Bars, Columns and Lines Dashboard](Bars_Coulmns_and_Lines.png)
 
 ## 🧰 Tools & Techniques
 - Microsoft Power BI Desktop  
